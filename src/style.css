@@ -1,0 +1,73 @@
+nav{
+    
+    height: 70px;
+    background-color: #F55A5A;
+    position: sticky;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    color: white;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 17px;
+}
+
+/*section*/
+section{
+    margin: 60px;
+    max-width: 100%;
+}
+
+.hero{
+    display: flex;
+}
+
+.hero-image{
+    width: 22%;
+}
+
+.hero-title{
+    display: flex;
+    flex-wrap:wrap;
+}
+
+.title{
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.japan{
+    margin-right: 12px;
+    color: #2B283A;
+    line-height: 12px;
+}
+
+.view{
+    text-decoration: underline;
+    color: #918E9B;
+    font-size: 14px;
+    line-height: 12px;
+}
+
+h3{
+    color: #2B283A;
+    font-weight: 700;
+    font-size: 50px;
+    margin-top: 50px;
+    line-height: 30px;
+}
+
+.date{
+    line-height: 12px;
+    color: #2B283A;
+}
+
+p{
+    font-size: 14px;
+    line-height: 35px;
+    color: #2B283A;
+    inline-size: 450px;
+}
