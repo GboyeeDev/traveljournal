@@ -18,6 +18,5 @@ function Hero(props) {
             </div>
         </section>
     )
-}
 
 export default Hero;
